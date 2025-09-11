@@ -10,5 +10,4 @@
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerencaglayan&layout=compact&theme=radical)
 
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=cerencaglayan&color=blue)
+
