@@ -1,6 +1,8 @@
 
 # 👋 Hi, I'm Ceren
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ceren-%C3%A7a%C4%9Flayan/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20589432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cer79cag@gmail.com) 
 
 ## 🔥 Streak
   ![GitHub Streak](https://streak-stats.demolab.com?user=cerencaglayan&theme=radical&date_format=j%20M%5B%20Y%5D)
@@ -26,4 +28,4 @@
 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerencaglayan)](https://github.com/anuraghazra/github-readme-stats)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=cerencaglayan)](https://github.com/anuraghazra/github-readme-stats)
